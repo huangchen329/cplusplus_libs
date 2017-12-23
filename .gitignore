@@ -1,0 +1,6 @@
+*.exe
+*.[oa]
+Release
+Debug
+*.vcxproj
+*.filters
